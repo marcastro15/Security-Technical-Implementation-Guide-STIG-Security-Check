@@ -17,13 +17,14 @@ The following feature will check for the following Oracle Linux Security Configu
 
 Pre-requisite Installation/Knowledge
 ------------------------------------
-Oracle Linux 7 Version
-Bash Scripts
-Enable "sudo" configuration
+1. Oracle Linux 7 Version
+2. Bash Scripts
+3. Enable "sudo" configuration
 
 How to run it?
 -------------
-Running the bash script is simple. It will check the security configuration setup of the Oracle linux and output the status. The goal here is to automate the process of checking the settings instead of checking them manually by hand. 
+Running the bash script is simple. It will check the security configuration setup of the Oracle linux and output the status. The goal here is to automate the process of checking the settings instead of checking them manually by hand. It should be a turn-key operations for the System Administrator of the systems.
+
 ./linux_stig_check.sh
 
 
