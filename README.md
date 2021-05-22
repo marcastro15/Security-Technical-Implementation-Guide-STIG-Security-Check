@@ -1,4 +1,9 @@
 # Security-Technical-Implementation-Guide-STIG-Security-Check
+
+What is STIG?
+------------
+It is a guide and rules best practices DISA has created for installation and supporting IT systems.
+
 COTs products are heavily used by the Department of Defense (DoD). Any installation from the COTs' vendors requires configuring the installation securely. STIG is a framework used by DoD. For this check developed, it would automate a portion of the STIG. This portion script is the automation check of Mission Assurance Category level 3 (MAC III) to conduct day-to-day business operations for Oracle Linux. Oracle Linux STIG Check for Oracle Linux System Administrator is designed to parse the installation of Oracle Linux before rolling out to sandbox, test, or production environment. The goal is to automate the process of running the check installed conducting it manually. Usually, Data Centers have over 100 Linux environments deployed in the network. One does not have to check check every single node, but you can run the scripts to automate the checking process ensuring the configuration installation is secure and it conforms to the STIG required by DoD.
 
 The following feature will check for the following Oracle Linux Security Configurations required by STIG:
