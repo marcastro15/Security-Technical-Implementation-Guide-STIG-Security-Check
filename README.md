@@ -32,5 +32,8 @@ Running the bash script is simple. It will check the security configuration setu
 
 ./linux_stig_check.sh
 
-
-
+Demo
+----
+https://www.youtube.com/watch?v=DebY_g7AEYU
+or 
+https://youtu.be/DebY_g7AEYU
