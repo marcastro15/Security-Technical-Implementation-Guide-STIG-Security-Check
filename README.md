@@ -37,3 +37,9 @@ Demo
 https://www.youtube.com/watch?v=DebY_g7AEYU
 or 
 https://youtu.be/DebY_g7AEYU
+
+
+Future Work:
+------------
+The scripts could be extended to generate JSON output or improve the parsers by using available APIs in its native environment. The shell script is extensible that it can call other APIs written in different language to generate JSON (available in Python API or you can create it your own parser). That's why the baseline of the language is the bash; it's the native language of the Linux/Unix.  Dealing with STIG is like going through the narrow gate because you have limited option of language to use. Everything you do (API import into the systems, generate your own) will have to go through DoD adjudication process that will take a long time to get it approved. That's why you have to be careful what language/scripts you use so that you don't have to write it again. Lesson learned is that DoD has a very strict list of apps/OS to use and they hardly change (Maybe, every 10 years). As a result, your script won't change that much either. You write it once, it stays their for a long time without modifications.
+
