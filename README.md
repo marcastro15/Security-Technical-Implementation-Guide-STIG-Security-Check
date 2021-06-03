@@ -22,9 +22,9 @@ The following feature will check for the following Oracle Linux Security Configu
 
 Pre-requisite Installation/Knowledge
 ------------------------------------
-1. Oracle Linux 7 Version
-2. Bash Scripts, grep, awk scripting
-3. Enable "sudo" configuration
+1. Oracle Linux 7 Version - familialirity of Linux layout, configurations, and administration process.
+2. Scripting: Bash Scripts, grep, awk scripting
+3. Enable "sudo" configuration to access System Admin files for parsing
 
 How to run it?
 -------------
